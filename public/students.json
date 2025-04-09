@@ -5,34 +5,47 @@
       "studentnr": 123456,
       "photo": "https://randomuser.me/api/portraits/lego/1.jpg",
       "gender": "other",
-      "id": "7a04"
+      "id": "7a04",
+      "email": "yo@yow.com"
     },
     {
       "id": "836a",
       "name": "Johanne",
       "studentnr": "654321",
       "photo": "https://randomuser.me/api/portraits/lego/9.jpg",
-      "gender": "female"
+      "gender": "female",
+      "email": "yo@yow.com"
     },
     {
       "name": "Hatice",
       "studentnr": 654321,
       "photo": "https://randomuser.me/api/portraits/lego/9.jpg",
       "gender": "female",
-      "id": "8da0"
+      "id": "8da0",
+      "email": "yo@yow.com"
     },
     {
       "id": "fb82",
       "name": "Pietje",
       "studentnr": "12234",
       "photo": "https://randomuser.me/api/portraits/lego/3.jpg",
-      "gender": "male"
+      "gender": "male",
+      "email": "yo@yow.com"
     },
     {
       "id": "6040",
       "name": "Victor",
       "studentnr": "12234",
       "photo": "https://randomuser.me/api/portraits/lego/4.jpg",
+      "gender": "male",
+      "email": "yo@yow.com"
+    },
+    {
+      "id": "512b",
+      "name": "Heijn",
+      "studentnr": "1222343",
+      "photo": "https://usercontent.one/wp/manforhimself.com/wp-content/uploads/2025/01/MFH_THIN-HAIR_FEATURE-IMAGE.png?media=1728223447",
+      "email": "Heijnvandenbroek@hu.nl ",
       "gender": "male"
     }
   ]
